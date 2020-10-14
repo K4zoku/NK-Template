@@ -1,6 +1,6 @@
 {
-    "name": "kazoku/nk-reader",
-    "description": "Comic reader site",
+    "name": "kazoku/nk-template",
+    "description": "template",
     "type": "project",
     "license": "apache-2.0",
     "require": {
