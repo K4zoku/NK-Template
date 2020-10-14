@@ -1,0 +1,23 @@
+{
+    "name": "kazoku/nk-reader",
+    "description": "Comic reader site",
+    "type": "project",
+    "license": "apache-2.0",
+    "require": {
+        "ext-fileinfo": "*"
+    },
+    "authors": [
+        {
+            "name": "kazoku",
+            "email": "kazoku0356@gmail.com"
+        }
+    ],
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "prs-4": {
+            "core\\": "src/core/"
+        }
+    }
+}
